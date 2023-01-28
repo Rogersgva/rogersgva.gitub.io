@@ -1,0 +1,40 @@
+
+section {
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 800px;
+    border: 5px solid green;
+    border-radius: 25px;
+    padding: 30px;
+    margin: 50px;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    border: 3px double greenyellow;
+    border-radius: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 90px;
+    padding-right: 5px;
+    margin: auto;
+    width: 300px;
+    font-weight: bold;
+}
+p{
+    
+    padding-left: 300px;
+}
+
+#centrar{
+    padding-left: 350px;
+}
+#centrar1{
+    padding-left: 380px;
+}
+#centrar2{
+    padding-left: 275px;
+}
+
+#demo{
+    color:black;
+}
